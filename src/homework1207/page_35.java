@@ -6,7 +6,7 @@ public class page_35 {
 	{
 		try
 		{
-			FileWriter fw = new FileWriter("");
+			FileWriter fw = new FileWriter("test1.txt");
 			PrintWriter pw = new PrintWriter(new BufferedWriter(fw));
 			
 			pw.println("Hello!");

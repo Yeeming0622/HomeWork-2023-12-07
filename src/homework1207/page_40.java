@@ -7,7 +7,7 @@ public class page_40 {
 	{
 		if(args.length != 1)
 		{
-			System.out.println("Page_40.txt");
+			System.out.println("請指定正確的當案名稱");
 			System.exit(1);
 		}
 		
